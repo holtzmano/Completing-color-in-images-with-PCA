@@ -1,8 +1,3 @@
-'''
-names :
-    Oren Holthman , 209905207
-    Ishay Post , 205415607
-'''
 from PIL import Image
 import numpy as np
 from sklearn.decomposition import PCA
